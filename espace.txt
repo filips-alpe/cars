@@ -5,28 +5,28 @@ Number plate: FR1283
 
 Due service and maintenance:
     * timing belt replacement
-        parts necessary:
-            * thermostat (asked 123)
-            * water pump (asked 123)
         parts ordered:
-           * timing belt set (Trodo)
+            * thermostat (InterCars)
+            * water pump (123)
+            * timing belt set (Trodo)
     * belt replacement
-        parts necessary:
-            * alternator belt (asked 123)
-            * water pump and power steering belt (asked 123)
+        parts ordered:
+            * alternator belt (InterCars)
+            * water pump and power steering belt (InterCars)
     * brake repair
         parts necessary:
-            * master brake cylinder (with reservoir) (asked 123)
+            * master brake cylinder (with reservoir) (asked 123) - What brand? 21mm or 22mm?
             * 3m of copper brake line
-            * 2 brake line quick fittings (steel to copper)
             * rear brake hoses, both sides - what size?
         parts ordered:
             * rear cylinders (InterCars) - no need to replace
+        parts bought:
+            * 2 brake line quick fittings (steel to copper)
     * liquids
         parts necessary:
             * brake fluid
             * coolant
-        parts ordered:
+        parts bought:
             * engine oil 10w40 Elf (InterCars)
     * exhaust muffler
         parts necessary:
@@ -35,8 +35,8 @@ Due service and maintenance:
         parts necessary:
             * tires R14 ???
     * battery replacement
-        parts necessary:
-            * battery (242 x 190 x 175, 62Ah, 540A) (asked 123)
+        parts ordered:
+            * battery (242 x 190 x 175, 62Ah, 540A) (123)
     * front bodywork repair
         parts necessary:
             * front lip (VW Passat B3 should fit fine)
@@ -48,7 +48,7 @@ Due service and maintenance:
     * loose headlining
     * anti-rust treatment
     * filters
-        parts ordered:
+        parts bought:
             * oil filter (InterCars)
             * air filter (InterCars)
             * fuel filter (InterCars)
@@ -60,7 +60,9 @@ Due service and maintenance:
 Expenses:
 Car: 600
 Timing belt: 45.41
-Sum: 645.41
+Oil and filters: 85.12
+Brake line fittings: 5.42
+Sum: 735.95
 
 Upcoming expenses:
 Road tax: 174
