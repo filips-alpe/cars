@@ -6,20 +6,20 @@ Number plate: FR1283
 Due service and maintenance:
     * timing belt replacement
         parts necessary:
-            * thermostat
-            * water pump
+            * thermostat (asked 123)
+            * water pump (asked 123)
         parts ordered:
            * timing belt set (Trodo)
     * belt replacement
         parts necessary:
-            * alternator belt
-            * water pump and power steering belt
+            * alternator belt (asked 123)
+            * water pump and power steering belt (asked 123)
     * brake repair
         parts necessary:
-            * master brake cylinder (with reservoir)
+            * master brake cylinder (with reservoir) (asked 123)
             * 3m of copper brake line
             * 2 brake line quick fittings (steel to copper)
-            * rear brake hoses, both sides
+            * rear brake hoses, both sides - what size?
         parts ordered:
             * rear cylinders (InterCars) - no need to replace
     * liquids
@@ -36,7 +36,7 @@ Due service and maintenance:
             * tires R14 ???
     * battery replacement
         parts necessary:
-            * battery (242 x 190 x 175, 62Ah, 540A)
+            * battery (242 x 190 x 175, 62Ah, 540A) (asked 123)
     * front bodywork repair
         parts necessary:
             * front lip (VW Passat B3 should fit fine)
