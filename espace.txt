@@ -1,0 +1,72 @@
+1993 Renault Espace
+
+VIN: VF8J636150R235052
+Number plate: FR1283
+
+Due service and maintenance:
+    * timing belt replacement
+        parts necessary:
+            * thermostat
+            * water pump
+        parts ordered:
+           * timing belt set (Trodo)
+    * belt replacement
+        parts necessary:
+            * alternator belt
+            * water pump and power steering belt
+    * brake repair
+        parts necessary:
+            * master brake cylinder (with reservoir)
+            * 3m of copper brake line
+            * 2 brake line quick fittings (steel to copper)
+            * rear brake hoses, both sides
+        parts ordered:
+            * rear cylinders (InterCars) - no need to replace
+    * liquids
+        parts necessary:
+            * brake fluid
+            * coolant
+        parts ordered:
+            * engine oil 10w40 Elf (InterCars)
+    * exhaust muffler
+        parts necessary:
+            * 75cm exhaust muffler, 50mm internal diameter
+    * tire replacement
+        parts necessary:
+            * tires R14 ???
+    * battery replacement
+        parts necessary:
+            * battery (242 x 190 x 175, 62Ah, 540A)
+    * front bodywork repair
+        parts necessary:
+            * front lip (VW Passat B3 should fit fine)
+    * coolant reservoir needs to be cleaned
+    * passenger side front door outer panel not attached well
+    * passenger window does not operate well
+    * windshield rubber needs to be stretched and attached in the corner
+    * cracks in rear bumper  
+    * loose headlining
+    * anti-rust treatment
+    * filters
+        parts ordered:
+            * oil filter (InterCars)
+            * air filter (InterCars)
+            * fuel filter (InterCars)
+            * cabin air filter (InterCars)
+    * suspension repair
+        parts ordered:
+            * front stabilizer links (InterCars)
+
+Expenses:
+Car: 600
+Timing belt: 45.41
+Sum: 645.41
+
+Upcoming expenses:
+Road tax: 174
+Parts: ???
+Tires: ???
+Repair: ???
+Registration: 30
+Battery: 60
+Sum: 264 + ???
