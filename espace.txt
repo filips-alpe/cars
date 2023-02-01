@@ -1,74 +1,71 @@
 1993 Renault Espace
 
 VIN: VF8J636150R235052
-Number plate: FR1283
+VNZ: FR1283
 
-Due service and maintenance:
-    * timing belt replacement
-        parts ordered:
-            * thermostat (InterCars)
-            * water pump (123)
-            * timing belt set (Trodo)
-    * belt replacement
-        parts ordered:
-            * alternator belt (InterCars)
-            * water pump and power steering belt (InterCars)
+Nepieciešamie remonti:
+    * zobsiksnas maiņa
+        pasūtīts:
+            * termostats (InterCars)
+            * ūdenssūknis (123)
+            * zobsiksnas komplekts (Trodo)
+    * agregātsiksnu maiņa
+        pasūtīts:
+            * ģeneratora siksna (InterCars)
+            * ūdenssūkņa siksna (InterCars)
     * brake repair
-        parts necessary:
-            * master brake cylinder (with reservoir) (asked 123) - What brand? 21mm or 22mm?
-            * 3m of copper brake line
-            * rear brake hoses, both sides - what size?
-        parts ordered:
-            * rear cylinders (InterCars) - no need to replace
-        parts bought:
-            * 2 brake line quick fittings (steel to copper)
+        jādabū:
+            * galvenais bremžu cilindrs - 21mm vai 22mm?
+            * 3m kapara bremžu trubiņa
+        nopirkts:
+            * 2 bremžu trubiņas ātrie savienojumi
     * liquids
-        parts necessary:
-            * brake fluid
-            * coolant
-        parts bought:
+        jādabū:
+            * bremžu šķidrums (DOT4)
+            * antifrīzs
+        nopirkts:
             * engine oil 10w40 Elf (InterCars)
-    * exhaust muffler
-        parts necessary:
-            * 75cm exhaust muffler, 50mm internal diameter
-    * tire replacement
-        parts necessary:
-            * tires R14 ???
-    * battery replacement
-        parts ordered:
-            * battery (242 x 190 x 175, 62Ah, 540A) (123)
-    * front bodywork repair
-        parts necessary:
-            * front lip (VW Passat B3 should fit fine)
-    * coolant reservoir needs to be cleaned
-    * passenger side front door outer panel not attached well
-    * passenger window does not operate well
-    * windshield rubber needs to be stretched and attached in the corner
-    * cracks in rear bumper  
-    * loose headlining
-    * anti-rust treatment
-    * filters
-        parts bought:
-            * oil filter (InterCars)
-            * air filter (InterCars)
-            * fuel filter (InterCars)
-            * cabin air filter (InterCars)
-    * suspension repair
-        parts ordered:
-            * front stabilizer links (InterCars)
+    * izpūtēja klusinātājs
+        jādabū:
+            * 75cm izpūtēja klusinātājs, 50mm iekšējais diametrs
+    * riepu maiņa
+        jādabū:
+            * riepas R14 ???
+    * baterijas maiņa
+        pasūtīts:
+            * baterija (242 x 190 x 175, 62Ah?, 540A?) (123)
+    * priekšējā bampera remonts
+        jādabū:
+            * prekšējā lūpa (VW Passat B3)
+    * jāiztīra tosola bundulis
+    * pareizi jānostiprina vadītāja durvju panelis no ārpuses
+    * jāpārbauda pasažiera loga darbība
+    * jānoregulē vējstikla gumija augšējā stūrī pasažiera pusē
+    * plaisas aizmugurējā bamperī  
+    * aizmugurē nokarājas jumta apšuvums
+    * pretrūsas apstrāda
+    * filtrs
+        nopirkts:
+            * eļļas filtrs (InterCars)
+            * gaisa filtrs (InterCars)
+            * degvielas filtrs (InterCars)
+            * salona gaisa filtr (InterCars)
+    * piekares remonts
+        pasūtīts:
+            * priekšējās stabilizatoru atsaites (InterCars)
 
-Expenses:
-Car: 600
-Timing belt: 45.41
-Oil and filters: 85.12
-Brake line fittings: 5.42
-Sum: 735.95
+Izdevumi:
+Renault Espace: 600
+Zobsiksna: 45.41
+Eļļa un filtri: 85.12
+Bremžu trubiņas stiprinājumi: 5.42
+Kopā: 735.95
 
-Upcoming expenses:
-Road tax: 174
-Parts: ???
-Tires: ???
-Repair: ???
-Registration: 30
-Battery: 60
-Sum: 264 + ???
+Izdevumi tuvākajā laikā:
+Ceļa nodoklis: 160
+Detaļas: ???
+Riepas: ???
+Remontdarbi: ???
+Reģistrācija: 30
+Baterija: 60
+Kopā: 264 + ???
