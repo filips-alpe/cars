@@ -6,9 +6,10 @@ VNZ: FR1283
 Nepieciešamie remonti:
     * zobsiksnas maiņa
         pasūtīts:
-            * termostats (InterCars)
             * ūdenssūknis (123)
             * zobsiksnas komplekts (Trodo)
+        nopirkts:
+            * termostats (InterCars)
     * agregātsiksnu maiņa
         pasūtīts:
             * ģeneratora siksna (InterCars)
@@ -39,7 +40,7 @@ Nepieciešamie remonti:
     * pareizi jānostiprina vadītāja durvju panelis no ārpuses
     * jāpārbauda pasažiera loga darbība
     * jānoregulē vējstikla gumija augšējā stūrī pasažiera pusē
-    * plaisas aizmugurējā bamperī  
+    * plaisas aizmugurējā bamperī
     * aizmugurē nokarājas jumta apšuvums
     * pretrūsas apstrāde
     * piekares remonts
