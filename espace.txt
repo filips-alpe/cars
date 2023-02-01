@@ -23,8 +23,6 @@ Nepieciešamie remonti:
         jādabū:
             * bremžu šķidrums (DOT4)
             * antifrīzs
-        nopirkts:
-            * engine oil 10w40 Elf (InterCars)
     * izpūtēja klusinātājs
         jādabū:
             * 75cm izpūtēja klusinātājs, 50mm iekšējais diametrs
@@ -43,13 +41,7 @@ Nepieciešamie remonti:
     * jānoregulē vējstikla gumija augšējā stūrī pasažiera pusē
     * plaisas aizmugurējā bamperī  
     * aizmugurē nokarājas jumta apšuvums
-    * pretrūsas apstrāda
-    * filtrs
-        nopirkts:
-            * eļļas filtrs (InterCars)
-            * gaisa filtrs (InterCars)
-            * degvielas filtrs (InterCars)
-            * salona gaisa filtr (InterCars)
+    * pretrūsas apstrāde
     * piekares remonts
         pasūtīts:
             * priekšējās stabilizatoru atsaites (InterCars)
