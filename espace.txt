@@ -17,15 +17,15 @@ Nepieciešamie remonti:
     * brake repair
         jādabū:
             * galvenais bremžu cilindrs - 21mm vai 22mm?
-            * 3m kapara bremžu trubiņa
         nopirkts:
             * 2 bremžu trubiņas ātrie savienojumi
+            * 3m kapara bremžu trubiņa
     * liquids
         jādabū:
             * bremžu šķidrums (DOT4)
             * antifrīzs
     * izpūtēja klusinātājs
-        jādabū:
+        nopirkts:
             * 75cm izpūtēja klusinātājs, 50mm iekšējais diametrs
     * riepu maiņa
         jādabū:
