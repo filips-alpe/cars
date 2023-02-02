@@ -13,6 +13,7 @@ Nepieciešamie remonti:
     * agregātsiksnu maiņa
         pasūtīts:
             * ģeneratora siksna (InterCars)
+        nopirkts:
             * ūdenssūkņa siksna (InterCars)
     * brake repair
         jādabū:
@@ -52,7 +53,13 @@ Renault Espace: 600
 Zobsiksna: 45.41
 Eļļa un filtri: 85.12
 Bremžu trubiņas stiprinājumi: 5.42
-Kopā: 735.95
+
+Priekšējās stabilizatoru atsaites
+Agregātsiksna
+Termostats
+  - Kopā: 44.47
+
+Kopā: 600 + 45.41 + 85.12 + 5.42 + 44.47
 
 Izdevumi tuvākajā laikā:
 Ceļa nodoklis: 160
@@ -61,4 +68,4 @@ Riepas: ???
 Remontdarbi: ???
 Reģistrācija: 30
 Baterija: 60
-Kopā: 264 + ???
+Kopā: 160 + 30 + 60
