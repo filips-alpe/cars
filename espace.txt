@@ -5,23 +5,20 @@ VNZ: FR1283
 
 Nepieciešamie remonti:
     * zobsiksnas maiņa
-        pasūtīts:
+        nopirkts:
             * ūdenssūknis (123)
             * zobsiksnas komplekts (Trodo)
-        nopirkts:
             * termostats (InterCars)
     * agregātsiksnu maiņa
-        pasūtīts:
+        nopirkts:
             * ģeneratora siksna (InterCars)
-        nopirkts:
             * ūdenssūkņa siksna (InterCars)
-    * brake repair
-        jādabū:
-            * galvenais bremžu cilindrs - 21mm vai 22mm?
+    * bremžu remonts
         nopirkts:
+            * galvenā bremžu cilindra remkomplekts
             * 2 bremžu trubiņas ātrie savienojumi
             * 3m kapara bremžu trubiņa
-    * liquids
+    * šķidrumu maiņa
         jādabū:
             * bremžu šķidrums (DOT4)
             * antifrīzs
@@ -31,9 +28,9 @@ Nepieciešamie remonti:
     * riepu maiņa
         jādabū:
             * riepas R14 ???
-    * baterijas maiņa
-        pasūtīts:
-            * baterija (242 x 190 x 175, 62Ah?, 540A?) (123)
+    * akumulatora maiņa
+        nopirkts:
+            * akumulatora (100Ah) (123)
     * priekšējā bampera remonts
         jādabū:
             * prekšējā lūpa (VW Passat B3)
@@ -50,9 +47,11 @@ Nepieciešamie remonti:
 
 Izdevumi:
 Renault Espace: 600
-Zobsiksna: 45.41
+Zobsiksna: 45.03
 Eļļa un filtri: 85.12
 Bremžu trubiņas stiprinājumi: 5.42
+ūdenssūknis 30
+akumulators 78
 
 Priekšējās stabilizatoru atsaites
 Agregātsiksna
@@ -67,5 +66,4 @@ Detaļas: ???
 Riepas: ???
 Remontdarbi: ???
 Reģistrācija: 30
-Baterija: 60
-Kopā: 160 + 30 + 60
+Kopā: 160 + 30
