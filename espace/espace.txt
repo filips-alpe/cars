@@ -1,4 +1,4 @@
-1993 Renault Espace
+1993 Renault Espace 2.2i
 
 VIN: VF8J636150R235052
 VNZ: FR1283
@@ -18,10 +18,12 @@ Nepieciešamie remonti:
     * jāiztīra tosola bundulis
     * pareizi jānostiprina vadītāja durvju panelis no ārpuses
     * jāpārbauda pasažiera loga darbība
-    * jānoregulē vējstikla gumija augšējā stūrī pasažiera pusē
+
+Nākotnē nepieciešamie remonti:
+    * pretrūsas apstrāde (pēc ziemas)
     * plaisas aizmugurējā bamperī
     * aizmugurē nokarājas jumta apšuvums
-    * pretrūsas apstrāde
+    * jānoregulē vējstikla gumija augšējā stūrī pasažiera pusē
 
 Veiktie remonti:
     * bremžu cauruļvadu remonts aizmugurē
@@ -39,7 +41,6 @@ Mainītās detaļas:
         Oriģināls šobrīd nav pieejams. Pielāgots un uzstādīts līdzīgs, ~66cm garš klusinātājs.
 
 Izdevumi:
-Renault Espace: 600
 Zobsiksna: 45.03
 Eļļa un filtri: 85.12
 Bremžu trubiņas stiprinājumi: 5.42
@@ -50,8 +51,6 @@ Priekšējās stabilizatoru atsaites
 Agregātsiksna
 Termostats
   - Kopā: 44.47
-
-Kopā: 600 + 45.41 + 85.12 + 5.42 + 44.47
 
 Izdevumi tuvākajā laikā:
 Ceļa nodoklis: 160
