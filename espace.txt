@@ -4,33 +4,14 @@ VIN: VF8J636150R235052
 VNZ: FR1283
 
 Nepieciešamie remonti:
-    * zobsiksnas maiņa
-        nopirkts:
-            * ūdenssūknis (123)
-            * zobsiksnas komplekts (Trodo)
-            * termostats (InterCars)
-    * agregātsiksnu maiņa
-        nopirkts:
-            * ģeneratora siksna (InterCars)
-            * ūdenssūkņa siksna (InterCars)
-    * bremžu remonts
-        nopirkts:
-            * galvenā bremžu cilindra remkomplekts
-            * 2 bremžu trubiņas ātrie savienojumi
-            * 3m kapara bremžu trubiņa
+    * galvenā bremžu cilindra remonts
     * šķidrumu maiņa
         jādabū:
             * bremžu šķidrums (DOT4)
             * antifrīzs
-    * izpūtēja klusinātājs
-        nopirkts:
-            * 75cm izpūtēja klusinātājs, 50mm iekšējais diametrs
     * riepu maiņa
         jādabū:
             * riepas R14 ???
-    * akumulatora maiņa
-        nopirkts:
-            * akumulatora (100Ah) (123)
     * priekšējā bampera remonts
         jādabū:
             * prekšējā lūpa (VW Passat B3)
@@ -41,9 +22,21 @@ Nepieciešamie remonti:
     * plaisas aizmugurējā bamperī
     * aizmugurē nokarājas jumta apšuvums
     * pretrūsas apstrāde
-    * piekares remonts
-        nopirkts:
-            * priekšējās stabilizatoru atsaites (InterCars)
+
+Veiktie remonti:
+    * bremžu cauruļvadu remonts aizmugurē
+
+Mainītās detaļas:
+    * zobsiksna ar rullīti (05.02.2023) (??? ??? km)
+    * ūdenssūknis (05.02.2023) (??? ??? km)
+    * termostats (05.02.2023) (??? ??? km)
+    * ģeneratora siksna (05.02.2023) (??? ??? km)
+    * ūdenssūkņa siksna (05.02.2023) (??? ??? km)
+    * akumulators (100Ah) (05.02.2023) (??? ??? km)
+    * priekšējās stabilizatoru atsaites (05.02.2023) (??? ??? km)
+    * izpūtēja klusinātājs (05.02.2023) (??? ??? km)
+        Bija oriģināls TATRA ~75cm garš izpūtēja klusinātājs. Trubas pa diagonāli, 50mm iekšējais diametrs.
+        Oriģināls šobrīd nav pieejams. Pielāgots un uzstādīts līdzīgs, ~66cm garš klusinātājs.
 
 Izdevumi:
 Renault Espace: 600
