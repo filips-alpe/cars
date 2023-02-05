@@ -1,0 +1,9 @@
+VIN: ???
+VNZ: ???
+
+Nepieciešamie remonti:
+    * motora remonts
+
+Nākotnē nepieciešamie remonti:
+
+Veiktie remonti:
