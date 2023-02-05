@@ -10,7 +10,7 @@ Nepieciešamie remonti:
             * bremžu šķidrums (DOT4) 0.7 L
                 jāpārbauda: 10000 km / 12 mēn
                 jāmaina: 40000 km / 24 mēn
-            * antifrīzs
+            * antifrīzs 8.4 L
                 jāmaina: 24 mēn
     * riepu maiņa
         jādabū:
@@ -18,9 +18,6 @@ Nepieciešamie remonti:
                 * 195/65R14 5.5Jx14 ET36 (OE)
                 * 195/60R15 6Jx15 ET42
                 * 205/60HR15 6Jx15 ET42
-    * priekšējā bampera remonts
-        jādabū:
-            * prekšējā lūpa (VW Passat B3)
     * jāiztīra tosola bundulis
     * pareizi jānostiprina vadītāja durvju panelis no ārpuses
     * jāpārbauda pasažiera loga darbība
@@ -30,6 +27,9 @@ Nākotnē nepieciešamie remonti:
     * plaisas aizmugurējā bamperī
     * aizmugurē nokarājas jumta apšuvums
     * jānoregulē vējstikla gumija augšējā stūrī pasažiera pusē
+    * priekšējā bampera remonts
+        jādabū:
+            * prekšējā lūpa (VW Passat B3)
 
 Veiktie remonti:
     * bremžu cauruļvadu remonts aizmugurē
