@@ -1,4 +1,4 @@
-1993 Renault Espace 2.2i
+1993 Renault Espace II 2.2i J63
 
 VIN: VF8J636150R235052
 VNZ: FR1283
@@ -7,11 +7,17 @@ Nepieciešamie remonti:
     * galvenā bremžu cilindra remonts
     * šķidrumu maiņa
         jādabū:
-            * bremžu šķidrums (DOT4)
+            * bremžu šķidrums (DOT4) 0.7 L
+                jāpārbauda: 10000 km / 12 mēn
+                jāmaina: 40000 km / 24 mēn
             * antifrīzs
+                jāmaina: 24 mēn
     * riepu maiņa
         jādabū:
-            * riepas R14 ???
+            * riepas:
+                * 195/65R14 5.5Jx14 ET36 (OE)
+                * 195/60R15 6Jx15 ET42
+                * 205/60HR15 6Jx15 ET42
     * priekšējā bampera remonts
         jādabū:
             * prekšējā lūpa (VW Passat B3)
