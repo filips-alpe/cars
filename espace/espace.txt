@@ -14,7 +14,7 @@ Nepieciešamie remonti:
                 jāmaina: 24 mēn
     * riepu maiņa
         jādabū:
-            * riepas:
+            * riepas:  # (4x100)
                 * 195/65R14 5.5Jx14 ET36 (OE)
                 * 195/60R15 6Jx15 ET42
                 * 205/60HR15 6Jx15 ET42
