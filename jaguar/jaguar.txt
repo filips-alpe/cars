@@ -1,9 +1,5 @@
 VIN: ???
-VNZ: ???
+VNZ: MS2896
 
 Nepieciešamie remonti:
-    * motora remonts
-
-Nākotnē nepieciešamie remonti:
-
-Veiktie remonti:
+    * motora remonts (nav kompresijas vienā cilindrā)
