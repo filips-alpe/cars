@@ -1,4 +1,4 @@
-2004 Lancia Lybra Emblema Intensa
+2004 Lancia Lybra Emblema Intensa 2.4 jtd
 
 VIN: ???
 VNZ: MO2866
@@ -12,9 +12,10 @@ Nepieciešamie remonti:
             * gaisa filtrs?
     * atslēgas baterijas maiņa
         jādabū:
-            * baterija ???
+            * baterija atslēgai - CR ????
 
 Nākotnē nepieciešamie remonti:
+    * eļļas maiņa
     * pretrūsas apstrāde (pēc ziemas)
     * sajūga maiņa (šobrīd nedaudz slīd)
 
