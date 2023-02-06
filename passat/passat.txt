@@ -2,7 +2,10 @@ VIN: ???
 VNZ: ???
 
 Nepieciešamie remonti:
+  * pārbaudīt abus akumulatorus
 
 Nākotnē nepieciešamie remonti:
 
 Veiktie remonti:
+
+Pēdējā eļļas maiņa - datums, km
