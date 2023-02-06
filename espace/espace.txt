@@ -5,20 +5,7 @@ VNZ: FR1283
 
 Nepieciešamie remonti:
     * galvenā bremžu cilindra remonts
-    * šķidrumu maiņa
-        jādabū:
-            * bremžu šķidrums (DOT4) 0.7 L
-                jāpārbauda: 10000 km / 12 mēn
-                jāmaina: 40000 km / 24 mēn
-            * antifrīzs 8.4 L
-                jāmaina: 24 mēn
     * riepu maiņa
-        jādabū:
-            * riepas:  # (4x100)
-                * 195/65R14 5.5Jx14 ET36 (OE)
-                * 195/60R15 6Jx15 ET42
-                * 205/60HR15 6Jx15 ET42
-    * jāiztīra tosola bundulis
     * pareizi jānostiprina vadītāja durvju panelis no ārpuses
     * jāpārbauda pasažiera loga darbība
 
@@ -32,36 +19,35 @@ Nākotnē nepieciešamie remonti:
             * prekšējā lūpa (VW Passat B3)
 
 Veiktie remonti:
-    * bremžu cauruļvadu remonts aizmugurē
-
-Mainītās detaļas:
-    * zobsiksna ar rullīti (05.02.2023) (??? ??? km)
-    * ūdenssūknis (05.02.2023) (??? ??? km)
-    * termostats (05.02.2023) (??? ??? km)
-    * ģeneratora siksna (05.02.2023) (??? ??? km)
-    * ūdenssūkņa siksna (05.02.2023) (??? ??? km)
-    * akumulators (100Ah) (05.02.2023) (??? ??? km)
-    * priekšējās stabilizatoru atsaites (05.02.2023) (??? ??? km)
-    * izpūtēja klusinātājs (05.02.2023) (??? ??? km)
+    * bremžu cauruļvadu remonts aizmugurē (05.02.2023) (?INITIAL? km)
+    * zobsiksna ar rullīti (05.02.2023) (?INITIAL? km)
+    * ūdenssūknis (05.02.2023) (?INITIAL? km)
+    * termostats (05.02.2023) (?INITIAL? km)
+    * ģeneratora siksna (05.02.2023) (?INITIAL? km)
+    * ūdenssūkņa siksna (05.02.2023) (?INITIAL? km)
+    * akumulators (100Ah) (05.02.2023) (?INITIAL? km)
+    * priekšējās stabilizatoru atsaites (05.02.2023) (?INITIAL? km)
+    * izpūtēja klusinātājs (05.02.2023) (?INITIAL? km)
         Bija oriģināls TATRA ~75cm garš izpūtēja klusinātājs. Trubas pa diagonāli, 50mm iekšējais diametrs.
         Oriģināls šobrīd nav pieejams. Pielāgots un uzstādīts līdzīgs, ~66cm garš klusinātājs.
+    * bremžu šķidrums (06.02.2023) (?INITIAL? km)
+    * antifrīzs (06.02.2023) (?INITIAL? km)
 
 Izdevumi:
-Zobsiksna: 45.03
+Renault Espace: 600
+Remontdarbi: 150
 Eļļa un filtri: 85.12
-Bremžu trubiņas stiprinājumi: 5.42
-ūdenssūknis 30
-akumulators 78
-
-Priekšējās stabilizatoru atsaites
-Agregātsiksna
-Termostats
-  - Kopā: 44.47
+Detaļas: 336.34
+Kopā: 1171.46
 
 Izdevumi tuvākajā laikā:
 Ceļa nodoklis: 160
-Detaļas: ???
-Riepas: ???
-Remontdarbi: ???
 Reģistrācija: 30
-Kopā: 160 + 30
+Remontdarbi: 50
+Kopā: 240
+
+Noderīga informācija:
+    disku/riepu izmēri - 4x100
+        * 195/65R14 5.5Jx14 ET36 (OE)
+        * 195/60R15 6Jx15 ET42
+        * 205/60HR15 6Jx15 ET42
