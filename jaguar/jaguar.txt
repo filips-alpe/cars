@@ -1,5 +1,17 @@
 VIN: ???
 VNZ: MS2896
+Nobraukums: ???
 
 Nepieciešamie remonti:
     * motora remonts (nav kompresijas vienā cilindrā)
+    
+Sīki defekti:
+   * krāsas defekti pie priekšējā luktura
+   * nokarājas griesti
+   * buktīte pie aizm. labās arkas
+   * jāuztaisa otra atslēga (nopirkta ar vienu atslēgu)
+   * trūkst lukturu mazgātāju vāciņš - pr. labā puse
+
+Apraksts:
+Ar motora defektu - nav kompresijas vienā cilindrā.
+Pārējais labā stāvoklī, viss darbojās kā nākas.
