@@ -53,3 +53,6 @@ Noderīga informācija:
         * 195/65R14 5.5Jx14 ET36 (OE)
         * 195/60R15 6Jx15 ET42
         * 205/60HR15 6Jx15 ET42
+    logu slotiņas:
+        priekšā 24" (600mm)
+        aizmugurē 16" (400mm)
