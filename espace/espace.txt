@@ -4,7 +4,10 @@ VIN: VF8J636150R235052
 VNZ: FR1283
 
 Nepieciešamie remonti:
-    * riepu maiņa
+    * sajūga pedālim jānopērk gumija
+    * jāatved degviela
+    * jānomaina pagrieziena lampiņa
+    * priekšējās slotiņas
     * pareizi jānostiprina vadītāja durvju panelis no ārpuses
     * jāpārbauda pasažiera loga darbība
 
@@ -18,6 +21,7 @@ Nākotnē nepieciešamie remonti:
             * prekšējā lūpa (VW Passat B3)
 
 Veiktie remonti:
+    * riepu maiņa
     * bremžu cauruļvadu remonts aizmugurē (05.02.2023) (?INITIAL? km)
     * zobsiksna ar rullīti (05.02.2023) (?INITIAL? km)
     * ūdenssūknis (05.02.2023) (?INITIAL? km)
