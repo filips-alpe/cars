@@ -4,7 +4,6 @@ VIN: VF8J636150R235052
 VNZ: FR1283
 
 Nepieciešamie remonti:
-    * galvenā bremžu cilindra remonts
     * riepu maiņa
     * pareizi jānostiprina vadītāja durvju panelis no ārpuses
     * jāpārbauda pasažiera loga darbība
@@ -32,13 +31,12 @@ Veiktie remonti:
         Oriģināls šobrīd nav pieejams. Pielāgots un uzstādīts līdzīgs, ~66cm garš klusinātājs.
     * bremžu šķidrums (06.02.2023) (?INITIAL? km)
     * antifrīzs (06.02.2023) (?INITIAL? km)
+    * galvenā bremžu cilindra maiņa (09.02.2023) (?INITIAL? km)
 
 Izdevumi:
-Renault Espace: 600
-Remontdarbi: 150
+Remontdarbi: 200
 Eļļa un filtri: 85.12
-Detaļas: 336.34
-Kopā: 1171.46
+Detaļas: 378.98
 
 Izdevumi tuvākajā laikā:
 Ceļa nodoklis: 160
