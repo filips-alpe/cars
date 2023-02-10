@@ -6,8 +6,9 @@ VNZ: FR1283
 Nepieciešamie remonti:
     * sajūga pedālim jānopērk gumija
     * jāatved degviela
-    * jānomaina pagrieziena lampiņa
-    * priekšējās slotiņas
+    * jānomaina pagrieziena lampiņa - P21W
+    * jānomaina tālās gaismas lampiņa
+    * priekšējās slotiņas 24" (600mm)
     * pareizi jānostiprina vadītāja durvju panelis no ārpuses
     * jāpārbauda pasažiera loga darbība
 
