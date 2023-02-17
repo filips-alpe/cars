@@ -1,5 +1,7 @@
 1993 Renault Espace II 2.2i J63
 
+RENAULT ESPACE II (J/S63_) Petrol 2.2 (J/S637, J63G) 79kW/108PS
+
 VIN: VF8J636150R235052
 VNZ: FR1283
 
@@ -8,6 +10,8 @@ Nepieciešamie remonti:
     * salona apsildes radiatora maiņa
     * salona ķīmiskā tīrīšana
     * stūres reikas remonts
+    * pr. šarnīra maiņa
+    * bremžu atgaisošana
 
 Nākotnē nepieciešamie remonti:
     * jānostiprina vadītāja durvju panelis no ārpuses
