@@ -9,10 +9,11 @@ VNZ: MO2866
 Nepieciešamie remonti:
     * aizmugurējā logu tīrītāja remonts
     * eļļas maiņa
-        jādabū:
-            * motoreļļa
-            * eļļas filtrs
-            * gaisa filtrs?
+        pasūtīts:
+            * motoreļļa (mybmw.lv)
+            * eļļas filtrs (Trodo)
+            * gaisa filtrs (Trodo)
+            * eļļas noliešanas korķis (Trodo)
     * atslēgas baterijas maiņa
         jādabū:
             * baterija atslēgai - CR ????
