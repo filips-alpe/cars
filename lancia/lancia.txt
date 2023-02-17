@@ -1,5 +1,7 @@
 2004 Lancia Lybra Emblema Intensa 2.4 jtd
 
+LANCIA LYBRA SW (839_) (99-05) 2.4 JTD (839.BXE1A) 110kW/150PS 2387ccm 05/2002 - 10/2005
+
 VIN: ???
 VNZ: MO2866
 
@@ -14,17 +16,17 @@ Nepieciešamie remonti:
         jādabū:
             * baterija atslēgai - CR ????
 
+Tuvākajā laikā nepieciešamie remonti:
+
 Nākotnē nepieciešamie remonti:
     * eļļas maiņa
     * pretrūsas apstrāde (pēc ziemas)
     * sajūga maiņa (šobrīd nedaudz slīd)
+    * aizm. bampera remonts - stūris
+    * stūrei vajag jaunas podziņas - vienai noplīsis vāciņš
 
 Veiktie remonti:
 
 Mainītās detaļas:
     * ieplūdes kolektora spiediena devējs (??.??.2022) (??? ??? km)
     * riepas (??.??.2022) (??? ??? km)
-
-Izdevumi:
-
-Izdevumi tuvākajā laikā:
