@@ -1,8 +1,9 @@
 2004 Lancia Lybra Emblema Intensa 2.4 jtd
 
-LANCIA LYBRA SW (839_) (99-05) 2.4 JTD (839.BXE1A) 110kW/150PS 2387ccm 05/2002 - 10/2005
+LANCIA LYBRA SW (839_) (99-05) 2.4 JTD (839.BXP1A) 110kW/150PS 2387ccm 05/2002 - 10/2005
+Dzinēja kods: 841 C.000
 
-VIN: ???
+VIN: ZLA83900000152711
 VNZ: MO2866
 
 Nepieciešamie remonti:
@@ -30,3 +31,8 @@ Veiktie remonti:
 Mainītās detaļas:
     * ieplūdes kolektora spiediena devējs (??.??.2022) (??? ??? km)
     * riepas (??.??.2022) (??? ??? km)
+
+Info:
+2.4 L 10v SOHC JTD
+150 PS (110 kW; 148 hp) at 4,000 rpm
+308 N⋅m (227 lb⋅ft) at 1,800 rpm
