@@ -6,12 +6,18 @@ VIN: VF8J636150R235052
 VNZ: FR1283
 
 Nepieciešamie remonti:
-    * sveču maiņa
     * salona apsildes radiatora maiņa
+        pasūtīts:
+          * radiators (123)
     * salona ķīmiskā tīrīšana
-    * stūres reikas remonts
-    * pr. šarnīra maiņa
+    * pr. labā apakšējā šarnīra maiņa
+        nepieciešams:
+          * labais apakšējais šarnīrs
     * bremžu atgaisošana
+
+Tuvākajā laikā nepieciešamie remonti:
+    * sveču maiņa
+    * stūres reikas remonts
 
 Nākotnē nepieciešamie remonti:
     * jānostiprina vadītāja durvju panelis no ārpuses
