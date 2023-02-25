@@ -6,18 +6,15 @@ VIN: VF8J636150R235052
 VNZ: FR1283
 
 Nepieciešamie remonti:
-    * salona apsildes radiatora maiņa
-        pasūtīts:
-          * radiators (123)
     * salona ķīmiskā tīrīšana
-    * pr. labā apakšējā šarnīra maiņa
-        nepieciešams:
-          * labais apakšējais šarnīrs
-    * bremžu atgaisošana
+    * degvielas sūkņa maiņa
+      jānopērk:
+        * degvielas sūknis: 7700260678
+        * trubiņa 19/20mm
+    * stūres reikas restaurācija
 
 Tuvākajā laikā nepieciešamie remonti:
     * sveču maiņa
-    * stūres reikas remonts
 
 Nākotnē nepieciešamie remonti:
     * jānostiprina vadītāja durvju panelis no ārpuses
@@ -45,6 +42,8 @@ Veiktie remonti:
     * bremžu šķidrums (6 feb 2023, 216217 km)
     * antifrīzs (6 feb 2023, 216217 km)
     * galvenā bremžu cilindra maiņa (9 feb 2023, 216217 km)
+    * salona apsildes radiatora maiņa (24 feb 2023, 216??? km)
+    * pr. labā apakšējā šarnīra maiņa (24 feb 2023, 216??? km)
 
 Noderīga informācija:
     disku/riepu izmēri - 4x100
