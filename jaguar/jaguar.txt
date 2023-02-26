@@ -10,8 +10,4 @@ Sīki defekti:
    * nokarājas griesti
    * buktīte pie aizm. labās arkas
    * jāuztaisa otra atslēga (nopirkta ar vienu atslēgu)
-   * trūkst lukturu mazgātāju vāciņš - pr. labā puse
-
-Apraksts:
-Ar motora defektu - nav kompresijas vienā cilindrā.
-Pārējais labā stāvoklī, viss darbojās kā nākas.
+   * trūkst lukturu mazgātāja vāciņš - pr. labā puse
